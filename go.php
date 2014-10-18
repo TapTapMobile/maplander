@@ -1,6 +1,6 @@
 [PHP]
 <?php
-header("Location: http://link.com");
+header("Location:http://www.concept-academy.co.il/lnd/maplander/step2/index.php");
 
 ?>
 [/PHP]
